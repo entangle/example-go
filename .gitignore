@@ -1,0 +1,8 @@
+# Dependencies.
+/src/github.com
+/src/code.google.com
+
+# Build output.
+/src/arithmetic/definition
+/bin
+/pkg
